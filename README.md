@@ -1,1 +1,1 @@
-# MLprojects
+This is the main repo. All the projects I do in my free time can be found here. Each sub-folder comes with it's own Readme which describes the problem, solution and other details about the project in more detail.
