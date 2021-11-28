@@ -1,0 +1,2 @@
+Blood cell detection was performed using a new updated and faster RCNN model in project 1.
+In project 2, tested out the new ImageAI library and technique to perform a pedestrian detection (could be used for self driving cars).
